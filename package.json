@@ -21,6 +21,7 @@
   ],
   "license": "Apache 2.0",
   "dependencies": {
-    "passport-oauth": "~0.1.14"
+    "passport-oauth": "~0.1.14",
+    "request": "2.88.0"
   }
 }
